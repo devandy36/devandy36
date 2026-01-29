@@ -1,16 +1,32 @@
-## Hi there 👋
+## 👋 Olá, eu sou a Andressa
 
-<!--
-**devandy36/devandy36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou desenvolvedora web em formação, com foco em **front-end**, organização de código e boas práticas de desenvolvimento.
 
-Here are some ideas to get you started:
+Atualmente desenvolvo projetos autorais para consolidar fundamentos de HTML, CSS e JavaScript, sempre buscando criar interfaces funcionais, acessíveis e bem estruturadas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tecnologias
+
+- HTML5  
+- CSS3  
+- JavaScript  
+- C (lógica e estruturas de dados)  
+- Git & GitHub  
+
+---
+
+## 📂 Projetos em destaque
+
+- **StudyFlow** — Organizador de estudos com persistência no navegador  
+- **Taskly** — Lista de tarefas com CRUD básico  
+- **Eventify** — Landing page responsiva  
+
+👉 Veja mais em:  
+🔗 https://github.com/devandy36/Projetos-Facul
+
+---
+
+## 🎯 Objetivo profissional
+
+Busco oportunidade de **estágio ou vaga júnior** na área de desenvolvimento web, onde eu possa aprender, evoluir e contribuir com projetos reais e bem estruturados.
