@@ -1,62 +1,41 @@
+# 👋 Olá, eu sou a **Andressa Duarte**
 
----
+💻 **Full Stack Developer | Produto & Performance**
 
-# 👋 Olá, eu sou a Andressa
+Desenvolvo aplicações web e APIs que resolvem problemas reais de negócio. Minha atuação vai além do código: tenho foco em conversão, experiência do usuário e crescimento.
 
-Desenvolvedora Web em formação, com foco em front-end, organização de código e boas práticas de desenvolvimento.
+## 🚀 Meu diferencial
 
-Atuo na construção de interfaces funcionais, acessíveis e bem estruturadas, integrando fundamentos sólidos de HTML, CSS e JavaScript com aplicação prática de Inteligência Artificial e automações.
+- **Experiência comercial:** mais de oito anos de atuação em vendas, liderança de equipes e crescimento de negócios.
+- **Visão analítica:** trabalho orientada a métricas, funil de vendas e conversão.
+- **Mentalidade de produto:** entendo o problema e o impacto antes de escrever a primeira linha de código.
 
-Busco transformar tecnologia em solução estratégica para negócios e produtos digitais.
+## 🔧 Tecnologias
 
-## 🚀 Tecnologias & Conhecimentos
+React · Next.js · Angular · Node.js · Express · PostgreSQL · SQLite · APIs REST · JWT · Docker
 
-### 💻 Desenvolvimento Web
-- HTML5 (semântica e acessibilidade)
-- CSS3 (Flexbox, Grid, responsividade)
-- JavaScript (ES6+, manipulação de DOM)
-- Consumo de APIs
-- LocalStorage
-- Estruturação de projetos
+## 📊 Projetos em destaque
 
-### 🧠 Lógica & Fundamentos
-- Lógica de Programação
-- Estruturas de Dados (conceitos básicos)
-- Algoritmos
-- Programação em C (fundamentos)
+### 🍝 Jantarzin – Plataforma de Reservas
 
-### 🤖 Inteligência Artificial
-- Fundamentos de IA
-- Engenharia de Prompt
-- Aplicação prática de IA em automações
-- Integração de ferramentas baseadas em IA
+Aplicação full stack para gestão de reservas com controle de capacidade por sessão e integração de pagamentos. Automatiza o processo de reservas, evitando overbooking e melhorando a experiência do cliente.
 
-### ⚙️ Ferramentas & Versionamento
-- Git
-- GitHub
-- Organização de branches
-- README estruturado
+**Stack:** Next.js · Node.js · SQLite · Mercado Pago
 
-### 📈 Estratégia Digital
-- SEO Técnico
-- Estruturação para performance web
-- Automação de processos
-- Aplicação de tecnologia para negócios locais
+### 📈 Rankline – Diagnóstico Digital
 
+SaaS de diagnóstico digital para análise de presença online, geração de leads e gestão de oportunidades para pequenos negócios. Focado em métricas e resultados.
 
-## 📌 Projetos em destaque
+**Stack:** JavaScript · Node.js · API REST · SQLite
 
-- **StudyFlow** — Organizador de estudos com persistência no navegador  
-- **Taskly** — Lista de tarefas com CRUD funcional  
-- **Eventify** — Landing page responsiva  
+### 🛒 E‑commerces & Websites
 
-👉 Veja mais projetos:  
-🔗 https://github.com/devandy36/Projetos-Facul
+Desenvolvimento de lojas virtuais e sites institucionais com foco em performance, SEO técnico e melhoria de taxa de conversão.
 
----
+**Stack:** HTML · CSS · JavaScript · Shopify
 
-## 🎯 Atualmente estudando
+## 💬 Contato
 
-- Estruturas de dados
-- Boas práticas de código
-- Aplicações práticas de IA em projetos web
+- [LinkedIn](https://linkedin.com/in/devandy36)
+- [GitHub](https://github.com/devandy36)
+- [Email](mailto:andressa__duarte@hotmail.com)
